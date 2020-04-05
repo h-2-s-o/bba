@@ -5,7 +5,7 @@
 (^|\.)googlevideo\.com$
 (^|\.)youtube\.com$
 (^|\.)ytimg\.com$
-
+(^|\.)\w*youtube\w*\.\w*$
 
 [outbound_block_list]
 # 禁止访问列表
