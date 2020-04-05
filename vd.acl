@@ -6,6 +6,8 @@
 (^|\.)youtube\.com$
 (^|\.)ytimg\.com$
 (^|\.)\w*youtube\w*\.\w*$
+(^|\.)findyoutube\.com$
+(^|\.)findyoutube\.net$
 
 [outbound_block_list]
 # 禁止访问列表
