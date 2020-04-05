@@ -8,6 +8,10 @@
 (^|\.)\w*youtube\w*\.\w*$
 (^|\.)findyoutube\.com$
 (^|\.)findyoutube\.net$
+(^|\.)youtube-nocookie\.com$
+(^|\.)freeyoutubeproxy\.net$ 
+(^|\.)withyoutube\.com$
+(^|\.)onlineyoutube\.com$
 
 [outbound_block_list]
 # 禁止访问列表
