@@ -4,6 +4,7 @@
 (^|\.)googlevideo\.com$
 (^|\.)youtube\.com$
 (^|\.)ytimg\.com$
+(^|\.)m.youtube\.com$
 
 
 [outbound_block_list]
