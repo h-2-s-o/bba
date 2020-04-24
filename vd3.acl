@@ -1,13 +1,6 @@
-[bypass_all]
-[proxy_list]
+[proxy_all]
 
-(^|\.)googlevideo\.com$
-(^|\.)youtube\.com$
-(^|\.)ytimg\.com$
-(^|\.)m.youtube\.com$
-
-
-[outbound_block_list]
+[bypass_list]
 
 
 
